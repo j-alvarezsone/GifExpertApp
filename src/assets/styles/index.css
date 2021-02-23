@@ -11,6 +11,7 @@ input {
   width: 100%;
   color: grey;
   border: 1px solid #cbd5dd;
+  outline: none;
 }
 
 ol {
